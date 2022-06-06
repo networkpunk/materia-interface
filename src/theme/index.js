@@ -1,8 +1,6 @@
-import { createGlobalStyle } from 'styled-components'
-import background from './background.svg'
-
-import ProximaNova from '../assets/webfonts/ProximaNova-Semibold.woff'
-
+import { createGlobalStyle } from "styled-components"
+import background from "../assets/background.svg"
+import ProximaNova from "../assets/webfonts/ProximaNova-Semibold.woff"
 
 export const GlobalStyle = createGlobalStyle`
 @font-face {
